@@ -18,9 +18,4 @@ Nesse desafio vamos fazer a captura de senha do Facebook, utilizando a ferrament
 
 ### **Resultado**
 
-  ![imagem do resultado](C:\Users\Teste\Downloads\Screenshot_2023-02-17_22_04_01.png)
-  
-  
-  
-  
-  ![Logo](https://www.knowbe4.com/hubfs/phisher-logo-1.png)
+![Print do resultado](https://user-images.githubusercontent.com/101129874/219828789-dd907561-d011-44e6-a41c-135c86446ea7.png)
