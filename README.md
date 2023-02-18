@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-  <html lang="pt-br">
-
 # **Desafio de Ciber Security Phishing da Dio**
 
 ## Phishing para captura de senha
